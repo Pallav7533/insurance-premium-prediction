@@ -1,4 +1,4 @@
-# insurance premium prediction
+# Insurance premium prediction
 
 ## Main Page
-![Main Page](https://github.com/Pallav7533/Breast-Cancer-Prediction-Using-ML/blob/main/Models/Logistic%20Regression/Demo/Main.png)
+![Main Page](https://github.com/Pallav7533/insurance-premium-prediction/blob/main/Demo/Screenshot%20(357).png)
